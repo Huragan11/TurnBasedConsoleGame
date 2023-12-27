@@ -1,0 +1,3 @@
+C:/Users/huber/OneDrive/Programming/PJC/Gra_Turowa/cmake-build-debug/CMakeFiles/Gra_Turowa.dir
+C:/Users/huber/OneDrive/Programming/PJC/Gra_Turowa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/huber/OneDrive/Programming/PJC/Gra_Turowa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
